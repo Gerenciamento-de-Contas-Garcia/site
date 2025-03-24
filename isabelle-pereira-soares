@@ -1969,27 +1969,27 @@
                 <h2 class="cs-title">Informações de Contato</h2>
               
                 <span class="cs-header">Nome</span>
-                <p>{{nome}}</p>
+                <p>Consultora Isabelle Pereira Soares</p>
                 
                 
                 <span class="cs-header">Razão social</span>
-                <p>61.268.757 GABRIEL EDUARDO PEREIRA ALIEST</p>
+                <p>77.462.452 ISABELLE PEREIRA SOARES</p>
                 
 
                 <span class="cs-header">CNPJ</span>
-                <p>{{cnpj}}</p>
+                <p>77.462.452/0001-10</p>
                 
                 
                 <span class="cs-header">Endereço</span>
-                <p>{{endereco}} 1028 - BATEL, Curitiba - PR, {{cep}}</p>
+                <p>RUA DOS TRÊS MARIAS, 1895 - BATEL, Curitiba - PR, 80710-130</p>
                 
 
                 <span class="cs-header">Email</span>
-                <a href="mailto:{{email}}" class="cs-link">{{email}}</a>
+                <a href="mailto:{{email}}" class="cs-link">ISABELLEPEREIRA@OUTLOOK.COM</a>
              
 
                 <span class="cs-header">Telefone</span>
-                <a href="tel:{{telefone}}" class="cs-link">{{telefone}}</a>
+                <a href="tel:{{telefone}}" class="cs-link">(41) 9128-0164</a>
     
                 
                 
@@ -2009,11 +2009,11 @@
             <form id="cs-form-490" name="Contact Form" method="post">
                 <label class="cs-label">
                     Nome
-                    <input class="cs-input" required type="text" id="name-490" name="name" placeholder="Lucas/Lucas Siqueira">
+                    <input class="cs-input" required type="text" id="name-490" name="name" placeholder="Insira seu nome completo aqui">
                 </label>
                 <label class="cs-label">
                     Email
-                    <input class="cs-input" required type="text" id="email-490" name="email" placeholder="seuemail@aliest.com">
+                    <input class="cs-input" required type="text" id="email-490" name="email" placeholder="seuemail@mail.com">
                 </label>
                 <label class="cs-label">
                     Telefone
